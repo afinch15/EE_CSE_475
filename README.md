@@ -1,4 +1,3 @@
-My Contributions
 As part of this embedded systems capstone project, I was responsible for designing and implementing key interactive features for our art installation/gaming platform:
 
 Capacitive Touch Interface
