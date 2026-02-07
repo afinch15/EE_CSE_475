@@ -15,5 +15,3 @@ Interactive "Simon Says" Game
 Developed the Simon Says game logic in Python, interfacing with existing C functions on the STM32 microcontroller
 Implemented real-time user input processing that captured touch inputs and updated the LED display to reflect game state changes
 Created an engaging gameplay loop that transformed the art canvas into an interactive gaming platform
-
-These contributions enabled the project to function both as a standalone interactive art piece and as a tabletop gaming platform, demonstrating skills in embedded systems programming, hardware-software integration, and user interface design.
